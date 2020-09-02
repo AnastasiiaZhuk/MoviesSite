@@ -3,3 +3,4 @@ postgres-data
 migrations
 .idea
 __pycache__
+media
